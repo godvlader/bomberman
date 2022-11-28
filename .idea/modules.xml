@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Bomberman JavaFx.iml" filepath="$PROJECT_DIR$/.idea/Bomberman JavaFx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BombermanJavaFX/BombermanFx/anc3_2122_a04.iml" filepath="$PROJECT_DIR$/BombermanJavaFX/BombermanFx/anc3_2122_a04.iml" />
+    </modules>
+  </component>
+</project>
